@@ -77,3 +77,5 @@ class NewItemForm extends React.Component {
         )
     }
 }
+
+export default NewItemForm
